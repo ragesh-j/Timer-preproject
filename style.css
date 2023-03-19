@@ -1,0 +1,23 @@
+#main-div{
+    width: 30%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 18%;
+    
+}
+#input-field{
+    width:95%;
+    text-align: center;
+    padding: 5px;
+    margin-bottom: 10px;
+    
+    
+}
+#counter{
+    max-width:100%;
+    font-size: xx-large;
+    border: 1px solid #ccc;
+    text-align: center;
+    padding: 20px;
+}
